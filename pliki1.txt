@@ -1,0 +1,10 @@
+plik12.txt
+plik1.txt
+plik2.txt
+pliki1.txt
+pliki.txt
+script0.sh
+script1.sh
+script2.sh
+script3.sh
+Testujemy
